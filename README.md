@@ -1,5 +1,11 @@
-### Hi there 👋
+### About Me 🏃
+* Software / Electrical Engineer
+* Texas A&M Alumni
+* Interested in machine learning, cloud computing, and full-stack development.
+* My hobbies include Running, Piano, Video Games, and Music
 
+### Want to know more 🤗 ?
+Check my profile on [LinkedIn](https://www.linkedin.com/in/alvm-espinoza/) "LinkedIn")
 <!--
 **mauricoro/mauricoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
