@@ -1,7 +1,7 @@
 ### About Me 🏃
 * Software / Electrical Engineer
 * Texas A&M Alumni
-* Interested in machine learning, cloud computing, and full-stack development.
+* Interested in full-stack development, machine learning, and cloud computing.
 * My hobbies include Running, Piano, Video Games, and Music
 
 ### Want to know more 🤗 ?
